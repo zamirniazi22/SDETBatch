@@ -2,7 +2,102 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25ac6232-459b-430f-83f7-b4c692fba9a4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/StringMethods/StringClass01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Bird.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BatchCl114/Class1400.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BatchCl114/doingtaskagain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class16/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class16/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class16/SyntaxEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class19/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class19/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class19/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class19/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class19/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class19/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class19/furniture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class20/MethodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class20/MethodoverloadingD2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class20/ShapeClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class20/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class20/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class20/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class20/user.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class21/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class21/Browser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class21/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class21/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class21/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class21/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class21/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class21/task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class22/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class22/AnimalTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class22/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class22/CarTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class22/CastingDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class22/HWpolymorphism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class22/StudentsTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class22/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class22/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class22/WebDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class22/WebDriverTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quiz3stringStringManipulation/quiz3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quiz3stringStringManipulation/quize4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repls/SyntaxTechnologiesclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class14/Math.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class14/MethodDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class14/MethodDemo3p.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class14/MethodsDemo2p.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class14/StringRecap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class14/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class14/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class14/addition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class14/notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class14/task2p.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class14/task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class14/task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class14/task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class14/task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class14Practice/class14PracticeExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class14Tasks/Taskk6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class14Tasks/taskk1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class14Tasks/taskk2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class14Tasks/taskk3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class14Tasks/taskk4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class14Tasks/taskk5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class14Tasks/taskk7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class15/class15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class17/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class17/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class17/TESETERFOR18TASK03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class17/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class17/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class17/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class17/person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class18/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class18/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class18/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class18/CatTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class18/Horse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class18/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class18/Task03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class18/Task03Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class18/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class18/TestStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class18/ThisKeywordDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class18/dog1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class23/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class23/DataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class23/File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class23/IDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class23/WebDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class23/person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class23/webDriverTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDETBatch14java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SDETBatch14java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringMethods/StringClass01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringMethods/StringClass01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,12 +107,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.jdks/corretto-11.0.16.1/lib/src.zip!/java.base/java/lang/String.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -26,38 +126,107 @@
     <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2FGrjQN7tlrg1dKGdVGU6fxhpOe" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.StringClass01">
-    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="SDETBatch14java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="SDETBatch14java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringClass01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringMethods.StringClass01" />
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="class23" />
+      <recent name="Class21" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.pdfFile">
+    <configuration name="IBM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class23.IBM" />
       <module name="SDETBatch14java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StringMethods.*" />
+          <option name="PATTERN" value="class23.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="SDETBatch14java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="SDETBatch14java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Oracle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class23.Oracle" />
+      <module name="SDETBatch14java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class23.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentsTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class22.StudentsTester" />
+      <module name="SDETBatch14java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class22.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pdfFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class23.pdfFile" />
+      <module name="SDETBatch14java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class23.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="webDriverTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class23.webDriverTester" />
+      <module name="SDETBatch14java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class23.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,7 +236,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StringClass01" />
+        <item itemvalue="Application.pdfFile" />
+        <item itemvalue="Application.webDriverTester" />
+        <item itemvalue="Application.IBM" />
+        <item itemvalue="Application.Oracle" />
+        <item itemvalue="Application.StudentsTester" />
       </list>
     </recent_temporary>
   </component>
@@ -92,6 +265,52 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/class17/Task2.java</url>
+          <line>4</line>
+          <properties class="class17.Task2" method="reversedStr">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/class17/Task3.java</url>
+          <line>7</line>
+          <properties class="class17.Task3" method="getvowels">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/class17/Dog.java</url>
+          <line>9</line>
+          <properties class="class17.Dog" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Class22/Animal.java</url>
+          <line>16</line>
+          <properties class="Class22.penda" method="sleep">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/SDETBatch14java$Main.ic" NAME="Main Coverage Results" MODIFIED="1664130532677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />

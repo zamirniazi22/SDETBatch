@@ -1,45 +1,31 @@
-public class Main {
-    public static void main(String[] args) {
+/*public class Main {
 
-      /*
-        StringBuilder  allows any methods to change the original contents of the variables
-        because StringBuilder is mutable.
-         /
-       StringBuilder=new StringBuilder("Intellij is great");
-        stringBuilder.reverse();
-        System.out.println(stringBuilder);
-        /
-        String does not allow any methods to change the original contents of the variables
-        because String is immutable
-         /
-        String str="Intellij ";
-        str.toLowerCase();
-        System.out.println(str);
+   /* public class parent {
 
-      /  String country="USA";
-        String home="USA";
-        StringBuilder state=new StringBuilder("New york");
-        StringBuilder state2=new StringBuilder("New york");*/
+        parent(String city) {
+            System.out.println(city);
+        }
 
+        parent() {
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+            System.out.println("Parent Constructor");
+        }
     }
-}
+
+        class child extends parent {
+            child(String city) {
+                super(city);
+            }
+
+            void print() {
+                System.out.println(city);
+            }
+
+
+
+            public static void main(String[] args) {
+                child chil = new child("Vienna");
+                chil.print();
+            }
+        }
+    */
